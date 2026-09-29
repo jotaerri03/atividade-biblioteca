@@ -12,7 +12,7 @@ O Sistema de Biblioteca tem como objetivo facilitar o cadastro e a consulta de l
 
 ## Integrantes
 
-- Junior S.# Sistema de Biblioteca
+- Josias Inácio.# Sistema de Biblioteca
 
 ## Objetivo
 
